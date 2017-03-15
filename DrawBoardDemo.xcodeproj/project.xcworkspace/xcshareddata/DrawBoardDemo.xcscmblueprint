@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "51ACAD8D1822E8CD85F0CB9904C738BC6C7159E2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3852517400DF1DEE5279D6E47E0498D65CDBD8E8" : 0,
+    "51ACAD8D1822E8CD85F0CB9904C738BC6C7159E2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E9DC7F72-A20C-47A3-A9CC-294700579481",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3852517400DF1DEE5279D6E47E0498D65CDBD8E8" : "",
+    "51ACAD8D1822E8CD85F0CB9904C738BC6C7159E2" : "%E7%94%BB%E6%9D%BF\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DrawBoardDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DrawBoardDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/814908848\/MyFramework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3852517400DF1DEE5279D6E47E0498D65CDBD8E8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/814908848\/DrawBoard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51ACAD8D1822E8CD85F0CB9904C738BC6C7159E2"
+    }
+  ]
+}
